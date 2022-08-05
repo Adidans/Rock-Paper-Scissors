@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: #393e46;
+}
+.header{
+    background-color: #111720;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px
+}
+
+h1{
+    color: #dddddd;
+}
+
+
+.buttons button{
+    background-color: #4a4f57;
+    color: #dddddd;
+}
+
+.buttons{
+    display: flex;
+}
+
+.results{
+    color: #dddddd;
+}
+
+#playAgain{
+    background-color: #4a4f57;
+    color: #dddddd;
+}
+
